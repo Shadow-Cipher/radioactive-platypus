@@ -126,7 +126,7 @@ You should see XML-formatted machine data.
 
 ## License
 
-This project is open-source and distributed under the GNU License.
+This project is open-source and distributed under the GNU General Public License v3.0
 
 ## Contributing
 
